@@ -2,7 +2,7 @@
 Given a singly linked list, find the middle of the linked list. For example, if the given linked list is 1->2->3->4->5 then the output should be 3. 
 If there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4. 
 Approach:
-1) First get the length of nodes
+1) First get the length of linked list
 2) Then find the position of nodes
 	a) If length is even, pos = length/2
 	b) If length is odd, pos = (length-1)/2
