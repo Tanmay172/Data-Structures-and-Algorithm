@@ -1,4 +1,4 @@
-//Implementation of stack in Linked List
+//Implementation of stack using Linked List
 
 import java.util.*;
 class StackUsingLinkedList
